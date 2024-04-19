@@ -1,0 +1,22 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+} ,
+{
+    "type": "java",
+    "name": "HelloArgs",
+    "request": "launch",
+    "mainClass": "HelloArgs",
+    "projectName": "netpro2024_人によって違う",
+    "args": [
+        "A0",
+        "A1",
+        "A2",
+        "A3"
+    ]
+}
