@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CSVReaderExample",
+            "request": "launch",
+            "mainClass": "CSVReaderExample",
+            "projectName": "java-basic-1_86c4da9d"
+        },
+        {
+            "type": "java",
             "name": "NetproLabMember",
             "request": "launch",
             "mainClass": "NetproLabMember",
@@ -23,13 +30,6 @@
             "name": "ArraysTest",
             "request": "launch",
             "mainClass": "ArraysTest",
-            "projectName": "java-basic-1_86c4da9d"
-        },
-        {
-            "type": "java",
-            "name": "IfTest3",
-            "request": "launch",
-            "mainClass": "IfTest3",
             "projectName": "java-basic-1_86c4da9d"
         },
         {
