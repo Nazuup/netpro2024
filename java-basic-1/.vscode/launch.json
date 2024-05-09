@@ -45,7 +45,7 @@
             "request": "launch",
             "mainClass": "IfTest1",
             "projectName": "java-basic-1_86c4da9d",
-            "args": [
+            "args" : [
                 "4"
             ]
         },
